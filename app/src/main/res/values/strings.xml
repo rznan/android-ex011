@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ex011</string>
+    <string name="client">cliente</string>
+    <string name="number">n° conta</string>
+    <string name="saldo">saldo</string>
+    <string name="diaRendimento">dia rendimento</string>
+    <string name="limite">limite</string>
+    <string name="value">valor</string>
+    <string name="sacar">sacar</string>
+    <string name="depositar">depositar</string>
+    <string name="label_poupanca">Poupança</string>
+    <string name="label_especial">Especial</string>
+    <string name="label_type">Escolha um tipo: </string>
+    <string name="author_data">Renan Santos Carvalho\n1110482313034</string>
+</resources>
